@@ -136,8 +136,3 @@ Outcome:
 saravana kumar G
 Cloud & DevOps Engineer
 
-⸻
-
-⸻
-
-If you want, I can make ultra-short resume version (just 4 points) which is most powerful for interviews.
