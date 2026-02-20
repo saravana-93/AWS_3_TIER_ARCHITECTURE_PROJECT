@@ -1,8 +1,5 @@
 # AWS_3_TIER_ARCHITECTURE_PROJECT
 
-Here is a different style version of your project description with simple, professional wording and minimal Docker / CI/CD keywords, focusing mainly on AWS infrastructure, networking, scaling, and monitoring.
-
-⸻
 
 🚀 AWS 3-Tier Web Application Architecture
 
